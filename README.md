@@ -30,6 +30,12 @@ Here you can find some of my projects, completed during my training and practice
 - :zap: Database management systems: ``MySQL``, ``PostgreSQL``
 - :zap: Data validation tools: ``Metabase``
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="PostegreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Pyton" **alt="Pyton" width="40" height="40"/>
+</div>
+
 ### Projects
 
 <p> Проект 1: Калькулятор юнит-экономики онлайн-кинотеатра</p>
