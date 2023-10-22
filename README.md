@@ -95,4 +95,4 @@ Here you can find some of my projects, completed during my training and practice
 
 ### Contacts
 - Email: elstrokina1809@gmail.com
-- Telegram: https://t.me/S_Helen_94
+- Telegram: https://t.me/Elena_Strokina1
