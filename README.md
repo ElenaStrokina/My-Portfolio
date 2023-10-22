@@ -5,7 +5,7 @@
   <a href="(https://instagram.com/lenok_strokina?igshid=1g2hfkrp7owdq)">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="(https://t.me/S_Helen_94)">
+    <a href="(https://t.me/Elena_Strokina1)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div id="badges" align="center">
